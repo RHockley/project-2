@@ -25,6 +25,13 @@ Sources:
 * `height_of_male_and_female_by_country.csv` - average height of males and females by country.
 * `world_bmi.csv` - average BMI of males, females, and both genders by country.
 
+Srk (2017) Download (43 kB) Country Statistics UNData | Overview. This dataset contains key statistical indicators covering General Information Economic Indicators Social Indicators Environmental & Infrastructure Indicators. www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles
+
+Majyhain (2022) Download (4 kB) Height of Male and Female by Country | Overview This dataset contains tallest to smallest average heights of males and females by country covering rank, country name, male height and female height.
+www.kaggle.com/datasets/majyhain/height-of-male-and-female-by-country-2022
+
+WHO (2014). Download (6.7 MB) Global status report on noncommunicable diseases | Overview The report provides data on the current situation, identifying bottlenecks as well as opportunities and priority actions for attaining global targets. www.who.int/publications-detail-redirect/9789241564854
+
 [Back to top](#etl-project)
 
 ---
