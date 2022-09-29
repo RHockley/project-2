@@ -1,5 +1,4 @@
-ETL PROJECT
-===========
+# ETL PROJECT
 ---
 Group members: Carlos Soda, Nick Carr, Liam Twomey, Robbie Hockley
 ---
@@ -10,5 +9,5 @@ Group members: Carlos Soda, Nick Carr, Liam Twomey, Robbie Hockley
 5.
 6.
 ---
-SELECTION OF DATASETS
----------------------
+## SELECTION OF DATASETS
+
