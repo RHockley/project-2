@@ -78,7 +78,7 @@ An `id` column was added to act as a primary key. This is an identifying integer
 
 ![Image](images/jupyter_notebook_dataframe.png)
 
-The dataframes were moved to a database in pgAdmin for storage and SQL searches. The image below is from a Jupyter Notebook to confirm the addition to the database.
+The dataframes were moved to a database in pgAdmin for storage and SQL searches. The image below is from a Jupyter Notebook to confirm the addition to the database. A simple SQL search to return information from the database can confirm that the data had been stored correctly.
 
 ![Image](images/database_check.png)
 
@@ -87,7 +87,8 @@ The dataframes were moved to a database in pgAdmin for storage and SQL searches.
 ---
 ## 4. DATABASE SCHEMATA
 
-[Quickbasediagrams](https://app.quickdatabasediagrams.com/#/d/BOWxp6) was used to create an ERD.
+
+The following code was used to create an ERD from [Quickbasediagrams](https://app.quickdatabasediagrams.com/#/d/BOWxp6).
 
 ```text
 CREATE TABLE "country_profile_variables" (
