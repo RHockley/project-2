@@ -16,6 +16,15 @@ Sources:
 * [Height of Male and Female by Country 2022](https://www.kaggle.com/datasets/majyhain/height-of-male-and-female-by-country-2022)  
 * [Global status report on noncommunicable diseases 2014](https://www.who.int/publications/i/item/9789241564854)  
 
+Srk (2017) Download (43 kB) Country Statistics UNData | Overview. This dataset contains key statistical indicators covering General Information Economic Indicators Social Indicators Environmental & Infrastructure Indicators. 
+www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles
+
+Majyhain (2022) Download (4 kB) Height of Male and Female by Country | Overview This dataset contains tallest to smallest average heights of males and females by country covering rank, country name, male height and female height.
+www.kaggle.com/datasets/majyhain/height-of-male-and-female-by-country-2022
+
+WHO (2014). Download (6.7 MB) Global status report on noncommunicable diseases | Overview The report provides data on the current situation, identifying bottlenecks as well as opportunities and priority actions for attaining global targets. 
+www.who.int/publications-detail-redirect/9789241564854
+
 [Back to top](#etl-project)
 
 ---
