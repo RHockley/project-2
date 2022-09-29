@@ -32,10 +32,13 @@ Sources:
 
 Excel was used to do some basic cleaning of the datasets. This was to remove any columns that were irrelevent to the question that was being investigated.
 
-The image below is the raw dataset from the source. The columns in blue were removed to make the information contained within it relevant
+The image below is the raw `country_profiles_variables.csv` dataset from the source. The columns in blue were removed to make the information contained within it relevant
 
 ![Image](images/country_profile_variables_before.png)
 
+Pandas was then used to transform the .csv files into dataframes that could be further manipulated and joined together. An `id` column was added to act as a primary key.
+
+![Image](images/jupyter_notebook_dataframe.png)
 
 [Back to top](#etl-project)
 
