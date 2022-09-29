@@ -1,6 +1,15 @@
 # ETL PROJECT
 
-Group members: Carlos Soda, Nick Carr, Liam Twomey, Robbie Hockley
+**Group members: Carlos Soda, Nick Carr, Liam Twomey, Robbie Hockley**
+
+---
+
+## Project Specialisation Brief
+
+In UWA’s anthropology department, the lead analyst wants to collect data from different sources in order to compile a database they can use to analyse and explore the social and economic relationships between economies, average heights and the body mass index’s of populations around the world. 
+
+The dataset produced covers ten economic and social indicators from 200 countries worldwide. The primary purpose of the dataset is to enable study into the relationship between economic and population health metrics. 
+
 
 ---
 1. [Selection of Datasets](#selection-of-datasets)
