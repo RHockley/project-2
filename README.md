@@ -38,13 +38,43 @@ Sources:
 ---
 ## 3. TRANSFORMATION OF DATASETS
 
-Excel was used to do some basic cleaning of the datasets. This was to remove any columns that were irrelevent to the question that was being investigated.
+Excel was used to do some basic cleaning of the datasets. This was to remove any columns that were irrelevent to the question that was being investigated. There were approximately 30 rows that contained countries which weren't consistent across all of the datasets. This allows the joining of dataframes further into the _Transform_ section.
 
 The image below is the raw `country_profiles_variables.csv` dataset from the source. The columns in blue were removed to make the information contained within it relevant
 
 ![Image](images/country_profile_variables_before.png)
 
-Pandas was then used to transform the .csv files into dataframes that could be further manipulated and joined together. An `id` column was added to act as a primary key.
+Pandas was then used to transform the .csv files into dataframes that could be further manipulated and joined together. Further cleaning was performed to remove more irrelevent data.
+
+Columns dropped included:
+* `Labour force participation (female/male pop. %)`
+* `Urban population growth rate (average annual %)`
+* `Fertility rate, total (live births per woman)`
+* `Life expectancy at birth (females/males, years)`
+* `Population age distribution (0-14 / 60+ years, %)`
+* `International migrant stock (000/% of total pop.)`
+* `Refugees and others of concern to UNHCR (in thousands)`
+* `Infant mortality rate (per 1000 live births`
+* `Health: Physicians (per 1000 pop.)`,`Education: Government expenditure (% of GDP)`
+* `Education: Primary gross enrol. ratio (f/m per 100 pop.)`
+* `Education: Secondary gross enrol. ratio (f/m per 100 pop.)`
+* `Education: Tertiary gross enrol. ratio (f/m per 100 pop.)`
+* `Seats held by women in national parliaments %`
+* `Mobile-cellular subscriptions (per 100 inhabitants)`
+* `Mobile-cellular subscriptions (per 100 inhabitants)`
+* `Individuals using the Internet (per 100 inhabitants)`
+* `Threatened species (number)`
+* `Forested area (% of land area)`
+* `CO2 emission estimates (million tons/tons per capita)`
+* `Energy production, primary (Petajoules)'`
+* `Energy supply per capita (Gigajoules)`
+* `Pop. using improved drinking water (urban/rural, %)`
+* `Pop. using improved sanitation facilities (urban/rural, %)`
+* `Net Official Development Assist. received (% of GNI)`
+
+As these didn't add to the information that was being investigated.
+
+An `id` column was added to act as a primary key. This is an identifying integer that increases by 1 for each row in the dataframe.
 
 ![Image](images/jupyter_notebook_dataframe.png)
 
