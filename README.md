@@ -1,13 +1,15 @@
 # ETL PROJECT
+
 ---
+
 Group members: Carlos Soda, Nick Carr, Liam Twomey, Robbie Hockley
+
 ---
 1. [Selection of Datasets](#selection-of-datasets)
 2. [Description of Datasets](#description-of-datasets)
-3.
-4.
-5.
-6.
+3. [Transformation of Datasets](#transformation-of-datasets)
+4. [Database Schemata](#database-schemata)
+
 ---
 ## SELECTION OF DATASETS
 
@@ -21,4 +23,16 @@ Sources:
 ---
 ## DESCRIPTION OF DATASETS
 
+[Back to top](#etl-project)
 
+---
+## TRANSFORMATION OF DATASETS
+
+[Back to top](#etl-project)
+
+---
+## DATABASE SCHEMATA
+
+[Back to top](#etl-project)
+
+---
